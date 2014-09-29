@@ -1,0 +1,25 @@
+# Magento
+/app/etc/local.xml
+/connect/package.xml
+/downloader/.cache
+/downloader/cache.cfg
+/downloader/connect.cfg
+/media
+/robots.txt
+/sitemap.xml
+/var/*
+!/var/.htaccess
+ 
+# Wordpress
+/blog/wp-config.php
+/blog/wp-content/uploads
+ 
+# System
+._*
+.DS_*
+Thumbs.db
+.smb*
+.nfs*
+*.swp
+_notes
+.svn
